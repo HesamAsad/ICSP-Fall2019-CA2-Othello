@@ -9,10 +9,10 @@ Top-down design is a process that moves from a high-level concept to a lower lev
 In the first phase of this project, we'll implement a command line interface for playing this game. In the second phase, we'll use `graphics.h` library and *Visual Studio* to implement a GUI for our game.
 
 * Phase 1:
-<img src=''>
+<img src='https://raw.githubusercontent.com/HesamAsad/ICSP-Fall2019-CA2-Othello/master/P1.jpg'>
 
 * Phase 2:
-<img src=''>
+<img src='https://raw.githubusercontent.com/HesamAsad/ICSP-Fall2019-CA2-Othello/master/P2.jpg'>
 
  
 Personal website: https://hesamasad.github.io
